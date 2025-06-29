@@ -41,7 +41,9 @@ Analyzed month-wise shipment trends and how they varied across different countri
 
 Identified top 6 customers and top 6 high-performing chocolate products contributing most to the business.
 
-## Country-wise Product Analysis
+- ## Country-wise Product Analysis
 
 Aggregated total products shipped per country to discover key markets and export volumes per region.
+
+Dashboard interaction <a href="https://github.com/rikshithbommena/Data-Analysis-Dashboard/blob/main/Screenshot%20(497).png">View Dashboard<a/>
 
