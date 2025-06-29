@@ -54,3 +54,29 @@ Cleaned the dataset by filtering only delivered shipments and converted dates fo
 ![Screenshot (497)](https://github.com/user-attachments/assets/d6796af3-d8c4-43ab-ba2c-267a8c99e0f2)
 
 
+# Project Insights
+
+### 📦 21,215 shipments were successfully delivered, shipping over 7.47 million boxes of chocolate.
+
+### 💰 The total business value generated was approximately ₹119.99 million.
+
+### 📈 Each shipment brought in an average of ₹5,656, and each box earned ₹16.05, indicating consistent pricing and volume distribution.
+
+### 🔁 Business in the last 12 months outperformed the previous 12 months, highlighting a positive growth trend.
+
+### 🌍 Top-performing countries included the USA, Germany, and UAE, based on shipment volume and revenue.
+
+### 🏆 Top 6 customers and top 6 products contributed significantly to overall business, showing customer loyalty and product popularity.
+
+### 📅 Shipments peaked during December and February, pointing to festive demand cycles.
+
+### 📌 Clear monthly and regional trends provide useful insights for future inventory planning and targeted marketing.
+
+# Final Conclusion
+
+This chocolate shipments data analysis provided a complete picture of the company’s supply chain and customer demand. Through Power BI and Excel, critical KPIs were visualized, showing strong year-over-year growth, high-performing customers and products, and seasonal demand patterns. The insights can be leveraged to optimize shipment planning, prioritize key markets, and enhance business strategy — making it a valuable resource for stakeholders and decision-makers.
+
+
+
+
+
