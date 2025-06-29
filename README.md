@@ -27,23 +27,23 @@ Visualize shipment trends and provide actionable insights for stakeholders.
 
 -  Efficiency Metrics
 
-  Derived average amount per shipment and amount per box to understand cost and revenue efficiency.
+   Derived average amount per shipment and amount per box to understand cost and revenue efficiency.
 
 -  Year-over-Year Business Comparison
 
-  Compared chocolate shipments from the last 12 months vs. previous 12 months, identifying growth patterns and seasonal impacts.
+   Compared chocolate shipments from the last 12 months vs. previous 12 months, identifying growth patterns and seasonal impacts.
 
 -  Monthly Shipments Distribution
 
-  Analyzed month-wise shipment trends and how they varied across different countries, helping assess demand fluctuations.
+   Analyzed month-wise shipment trends and how they varied across different countries, helping assess demand fluctuations.
 
 -  Top Performer Insights
 
-  Identified top 6 customers and top 6 high-performing chocolate products contributing most to the business.
+   Identified top 6 customers and top 6 high-performing chocolate products contributing most to the business.
 
 -  Country-wise Product Analysis
 
-  Aggregated total products shipped per country to discover key markets and export volumes per region.
+   Aggregated total products shipped per country to discover key markets and export volumes per region.
 
 - Dashboard interaction <a href="https://github.com/rikshithbommena/Data-Analysis-Dashboard/blob/main/Screenshot%20(497).png">View Dashboard<a/>
 
@@ -64,13 +64,13 @@ Cleaned the dataset by filtering only delivered shipments and converted dates fo
 
   Business in the last 12 months outperformed the previous 12 months, highlighting a positive growth trend.
 
- Top-performing countries included the USA, Germany, and UAE, based on shipment volume and revenue.
+  Top-performing countries included the USA, Germany, and UAE, based on shipment volume and revenue.
 
- Top 6 customers and top 6 products contributed significantly to overall business, showing customer loyalty and product popularity.
+  Top 6 customers and top 6 products contributed significantly to overall business, showing customer loyalty and product popularity.
 
- Shipments peaked during December and February, pointing to festive demand cycles.
+  Shipments peaked during December and February, pointing to festive demand cycles.
 
- Clear monthly and regional trends provide useful insights for future inventory planning and targeted marketing.
+  Clear monthly and regional trends provide useful insights for future inventory planning and targeted marketing.
 
 ## Final Conclusion
 
