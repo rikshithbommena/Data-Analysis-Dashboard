@@ -19,25 +19,25 @@ Visualize shipment trends and provide actionable insights for stakeholders.
 
 # Key Analyses Performed
 
-## Business Performance Overview
+- ## Business Performance Overview
 
 Calculated total boxes shipped, overall shipment count, and total business amount from the dataset.
 
 Summarized KPIs to assess revenue generation and shipment scale.
 
-## Efficiency Metrics
+- ## Efficiency Metrics
 
 Derived average amount per shipment and amount per box to understand cost and revenue efficiency.
 
-## Year-over-Year Business Comparison
+- ## Year-over-Year Business Comparison
 
 Compared chocolate shipments from the last 12 months vs. previous 12 months, identifying growth patterns and seasonal impacts.
 
-## Monthly Shipments Distribution
+- ## Monthly Shipments Distribution
 
 Analyzed month-wise shipment trends and how they varied across different countries, helping assess demand fluctuations.
 
-## Top Performer Insights
+- ## Top Performer Insights
 
 Identified top 6 customers and top 6 high-performing chocolate products contributing most to the business.
 
