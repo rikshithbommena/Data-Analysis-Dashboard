@@ -1,10 +1,10 @@
-#🍫 Chocolate-Store-Data-Analysis(Interactive dashboard  creation using Power Bi)
+# Chocolate-Store-Data-Analysis(Interactive dashboard  creation using Power Bi)
 
-##📌 Project Overview
+## Project Overview
 
 This project focuses on end-to-end analysis of a chocolate shipments dataset, aiming to uncover business trends and logistical insights. It involves cleaning, processing, and visualizing data to support data-driven decisions related to supply chain efficiency and market performance.
 
-##🎯 Objectives
+## Objectives
 
 Analyze overall chocolate shipment performance across regions and timeframes.
 
