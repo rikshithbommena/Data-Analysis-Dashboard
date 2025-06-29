@@ -45,7 +45,10 @@ Visualize shipment trends and provide actionable insights for stakeholders.
 
   Aggregated total products shipped per country to discover key markets and export volumes per region.
 
-Dashboard interaction <a href="https://github.com/rikshithbommena/Data-Analysis-Dashboard/blob/main/Screenshot%20(497).png">View Dashboard<a/>
+- Dashboard interaction <a href="https://github.com/rikshithbommena/Data-Analysis-Dashboard/blob/main/Screenshot%20(497).png">View Dashboard<a/>
+
+# Process
+Cleaned the dataset by filtering only delivered shipments and converted dates for time-based analysis. Calculated key KPIs like total shipments, boxes, revenue, amount per box, and amount per shipment. Compared business performance over the last 12 months with the previous 12 months. Identified top 6 customers and products, and analyzed monthly shipment trends across countries. Visualized all insights using Power BI dashboards.
 
 ## Dashboard
 ![Screenshot (497)](https://github.com/user-attachments/assets/d6796af3-d8c4-43ab-ba2c-267a8c99e0f2)
