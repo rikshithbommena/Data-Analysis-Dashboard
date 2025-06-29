@@ -56,21 +56,21 @@ Cleaned the dataset by filtering only delivered shipments and converted dates fo
 
 # Project Insights
 
-## 21,215 shipments were successfully delivered, shipping over 7.47 million boxes of chocolate.
+  21,215 shipments were successfully delivered, shipping over 7.47 million boxes of chocolate.
 
-## The total business value generated was approximately ₹119.99 million.
+  The total business value generated was approximately ₹119.99 million.
 
-## Each shipment brought in an average of ₹5,656, and each box earned ₹16.05, indicating consistent pricing and volume distribution.
+  Each shipment brought in an average of ₹5,656, and each box earned ₹16.05, indicating consistent pricing and volume distribution.
 
-## Business in the last 12 months outperformed the previous 12 months, highlighting a positive growth trend.
+  Business in the last 12 months outperformed the previous 12 months, highlighting a positive growth trend.
 
-## Top-performing countries included the USA, Germany, and UAE, based on shipment volume and revenue.
+ Top-performing countries included the USA, Germany, and UAE, based on shipment volume and revenue.
 
-## Top 6 customers and top 6 products contributed significantly to overall business, showing customer loyalty and product popularity.
+ Top 6 customers and top 6 products contributed significantly to overall business, showing customer loyalty and product popularity.
 
-## Shipments peaked during December and February, pointing to festive demand cycles.
+ Shipments peaked during December and February, pointing to festive demand cycles.
 
-## Clear monthly and regional trends provide useful insights for future inventory planning and targeted marketing.
+ Clear monthly and regional trends provide useful insights for future inventory planning and targeted marketing.
 
 # Final Conclusion
 
