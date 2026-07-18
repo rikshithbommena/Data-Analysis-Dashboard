@@ -1,4 +1,4 @@
-# Chocolate-Store-Data-Analysis(Interactive dashboard  creation using Power Bi)
+# Chocolate-Shipment-Analysis
 
 ## Dashboard
 ![Screenshot (497)](https://github.com/user-attachments/assets/d6796af3-d8c4-43ab-ba2c-267a8c99e0f2)
