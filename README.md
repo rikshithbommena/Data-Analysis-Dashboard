@@ -1,5 +1,8 @@
 # Chocolate-Store-Data-Analysis(Interactive dashboard  creation using Power Bi)
 
+## Dashboard
+![Screenshot (497)](https://github.com/user-attachments/assets/d6796af3-d8c4-43ab-ba2c-267a8c99e0f2)
+
 ## Project Overview
 
 This project focuses on end-to-end analysis of a chocolate shipments dataset, aiming to uncover business trends and logistical insights. It involves cleaning, processing, and visualizing data to support data-driven decisions related to supply chain efficiency and market performance.
@@ -49,9 +52,6 @@ Visualize shipment trends and provide actionable insights for stakeholders.
 
 ## Process
 Cleaned the dataset by filtering only delivered shipments and converted dates for time-based analysis. Calculated key KPIs like total shipments, boxes, revenue, amount per box, and amount per shipment. Compared business performance over the last 12 months with the previous 12 months. Identified top 6 customers and products, and analyzed monthly shipment trends across countries. Visualized all insights using Power BI dashboards.
-
-## Dashboard
-![Screenshot (497)](https://github.com/user-attachments/assets/d6796af3-d8c4-43ab-ba2c-267a8c99e0f2)
 
 
 ## Project Insights
